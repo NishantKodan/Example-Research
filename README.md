@@ -19,7 +19,7 @@ The nucleolus is a biomolecular condensate that forms through phase separation w
 - **RNAi Perturbations:** The effect of different RNAi perturbations on nucleolar size and assembly dynamics is studied.
 
 ## References
-Nishant Kodan, Rabeya Hussaini, Stephanie C. Weber, Jane Kondev, Lishibanya Mohapatra. "Transcription-Templated Assembly of the Nucleolus in the C. elegans Embryo." 2024. DOI
-License
+Nishant Kodan, Rabeya Hussaini, Stephanie C. Weber, Jane Kondev, Lishibanya Mohapatra. "Transcription-Templated Assembly of the Nucleolus in the C. elegans Embryo." 2024. bioRxiv preprint DOI:  [https://doi.org/10.1101/2024.06.06.597440](https://doi.org/10.1101/2024.06.06.597440)
 
-*This project is licensed under the terms of the CC BY-NC-ND 4.0 license.*
+## License
+*This project is licensed under the terms of the [CC BY-NC-ND 4.0 International license.](https://creativecommons.org/licenses/by-nc-nd/4.0/)*
