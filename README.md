@@ -17,3 +17,9 @@ The nucleolus is a biomolecular condensate that forms through phase separation w
 - **Active Transcription-Templated Assembly Model:** This model explains the rapid kinetics of nucleolar assembly observed in early *C. elegans* embryos.
 - **Comparison with Experimental Data:** The model's predictions are quantitatively compared with fluorescence microscopy data.
 - **RNAi Perturbations:** The effect of different RNAi perturbations on nucleolar size and assembly dynamics is studied.
+
+## References
+Nishant Kodan, Rabeya Hussaini, Stephanie C. Weber, Jane Kondev, Lishibanya Mohapatra. "Transcription-Templated Assembly of the Nucleolus in the C. elegans Embryo." 2024. DOI
+License
+
+*This project is licensed under the terms of the CC BY-NC-ND 4.0 license.*
